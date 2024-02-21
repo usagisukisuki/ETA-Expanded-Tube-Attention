@@ -1,5 +1,5 @@
 # ETA-Expanded-Tube-Attention
-This repository is the official PyTorch implementation for our International Journal of Computer Assisted Radiology and Surgery (IJCARS) 2023 paper ''Expanded tube attention for tubular structure segmentation'' [[paper]](https://www.sciencedirect.com/science/article/pii/S0010482523011605) (**impact factor=3.0**).
+This repository is the official PyTorch implementation for our International Journal of Computer Assisted Radiology and Surgery (IJCARS) 2023 paper ''Expanded tube attention for tubular structure segmentation'' [[paper]](https://link.springer.com/article/10.1007/s11548-023-03038-2) (**impact factor=3.0**).
 
 
 ## Introduction
