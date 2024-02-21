@@ -41,12 +41,12 @@ sh test.sh
 
 ## Citation
 ```
-@article{kato2023adaptive,
-  title={Adaptive t-vMF dice loss: An effective expansion of dice loss for medical image segmentation},
+@article{kato2023expanded,
+  title={Expanded tube attention for tubular structure segmentation},
   author={Kato, Sota and Hotta, Kazuhiro},
-  journal={Computers in Biology and Medicine},
-  pages={107695},
+  journal={International Journal of Computer Assisted Radiology and Surgery},
+  pages={1--7},
   year={2023},
-  publisher={Elsevier}
+  publisher={Springer}
 }
 ```
