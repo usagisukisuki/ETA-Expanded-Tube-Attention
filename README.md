@@ -17,6 +17,15 @@ methods.
 
 
 ## Preparation for preprocessing datasets
+Please download from [[Dataset]](https://drive.google.com/drive/folders/1eBagtjxurVyJQfDkg4t0jr8E9MNXULan?usp=drive_link) and extract them under "Dataset", and make them look like this:
+```
+Dataset
+├── DRIVE
+├── DRIVET
+├── CHASE
+`── CHASET
+
+```
 
 
 ## Training
