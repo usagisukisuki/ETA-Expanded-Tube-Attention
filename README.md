@@ -35,7 +35,7 @@ CUDA_VISIBLE_DEVICES=0 python3 train.py -g 0 -o result_0 -e 300 -b 16 -t 1 -s 0 
 
 ## Testing
 ```
-sh test.sh
+CUDA_VISIBLE_DEVICES=0 python3 test.py -g 0 -o result_0 -s 0 --cuda
 ```
 
 ## Results and Visualization
