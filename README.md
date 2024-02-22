@@ -29,19 +29,11 @@ Dataset
 
 
 ## Training
-### t-vMF Dice loss
-If you prepared the dataset, you can directly run the following code to train the model.
 ```
-python3 train.py -g 0 -o result -e 200 -b 24 -s 0 -mo unet -lo tvmf -c 2
-```
-### Adaptive t-vMF Dice loss
-If you prepared the dataset, you can directly run the following code to train the model.
-```
-python3 train.py -g 0 -o result -e 200 -b 24 -s 0 -mo unet -lo Atvmf -c 2
+CUDA_VISIBLE_DEVICES=0 python3 train.py -g 0 -o result_0 -e 300 -b 16 -t 1 -s 0 --cuda
 ```
 
 ## Testing
-If you generated the pretrain model, you can run the following code to evaluate the model.
 ```
 sh test.sh
 ```
