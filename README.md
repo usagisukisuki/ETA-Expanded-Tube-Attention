@@ -4,7 +4,7 @@ This repository is the official PyTorch implementation for our International Jou
 
 ## Introduction
 <div align="center">
-  <img src="figs/Fig1.png" width="80%"> <img src="figs/Fig2.png" width="80%">
+  <img src="figs/Fig1.png" width="80%">
 </div>
 **Purpose** :  Semantic segmentation of tubular structures, such as blood vessels and cell membranes, is a very difficult task, and it tends to break many predicted regions in the middle. This problem is due to the fact that tubular ground truth is very thin,
 and the number of pixels is extremely unbalanced compared to the background.  
@@ -38,7 +38,7 @@ sh test.sh
 
 ## Results and Visualization
 <div align="center">
-  <img src="figs/git_fig3.png" width="100%">
+  <img src="figs/Fig2.png" width="100%">
 </div>
 
 
